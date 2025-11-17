@@ -76,6 +76,9 @@ streamlit run app.py
 Загрузите изображение парковки
 Нажмите "ЗАПУСТИТЬ АНАЛИЗ"
 Просмотрите результаты:
+
+<img width="1489" height="728" alt="image" src="https://github.com/user-attachments/assets/be1e94f0-f3c0-4c24-bea7-34192165bf4d" />
+
 Детекция транспорта
 Загруженность зон
 Свободные/занятые места
